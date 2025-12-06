@@ -16,8 +16,7 @@ I also learned how to inspect binaries and understand what they’re doing while
 - YouTube videos on assembly basics  
 - Writing tiny assembly programs and debugging them with `gdb`
 - General OS/process/thread/syscall explanations  
-- My own **pwn_presentation.pdf** (ENGINEERS SPARK ISETCOM Club) for memory mapping and fundamentals
-
+- My own **pwn_presentation.pdf** (ENGINEERS SPARK ISETCOM Club) for memory mapping and fundamentals https://www.canva.com/design/DAG1EJyVf8w/HG9XiA7Mwwda3WCDv-_RTg/edit?utm_content=DAG1EJyVf8w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 **Tools:** `gdb`, `objdump`, `strace`, `ltrace`
 
 ## 2. C Is Your New Chrome Spine
